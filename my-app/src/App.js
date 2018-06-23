@@ -62,30 +62,31 @@ class App extends Component {
   }
 // img selection storage
   imgSwitch = (name) => {
+    console.log(name);
     switch (name) {
-      case "Blue-Door":
+      case "Blue":
         return `${Blue}`
-      case "Budapest-Door":
+      case "Budapest":
         return `${Budapest}`
-      case "Chinese-Door":
+      case "Chinese":
         return `${Chinese}`
-      case "Green-Door":
+      case "Green":
         return `${Green}`
-      case "India-Door":
+      case "India":
         return `${India}`
-      case "Irish-Door":
+      case "Irish":
         return `${Irish}`
-      case "Italian-Door":
+      case "Italian":
         return `${Italian}`
-      case "Light-Door":
+      case "Light":
         return `${Light}`
-      case "Shire-Door":
+      case "Shire":
         return `${Shire}`
-      case "Tree-Door":
+      case "Tree":
         return `${Tree}`
-      case "Venetian-Door":
+      case "Venetian":
         return `${Venetian}`
-      case "Viking-Door":
+      case "Viking":
         return `${Viking}`
       default:
         return `${Venetian}`
