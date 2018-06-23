@@ -6,8 +6,8 @@ import Footer from "./components/footer";
 import Image from "./components/image";
 import Img from "./components/img.json"
 
-import Blue from "./images/blue-door.jpg"
-import Budapest from "./images/budapest-door.jpg"
+import Blue from "./images/Blue-Door.jpg"
+import Budapest from "./images/Budapest-Door.jpg"
 import Chinese from "./images/Chinese-Door.jpg"
 import Green from "./images/Green-Door.jpg"
 import India from "./images/India-Door.jpg"
