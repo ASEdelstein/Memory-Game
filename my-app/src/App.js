@@ -88,10 +88,10 @@ class App extends Component {
       case "Viking-Door":
         return `${Viking}`
       default:
-        return `${Viking}`
+        return `${Venetian}`
     }
   }
-  // shuffled area appear on main area of page and gameplay beginss
+  // shuffled area appear on main area of page and gameplay begins
   render() {
     return (
       <div>
