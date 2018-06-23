@@ -1,10 +1,10 @@
 [{
     "name": "Blue",
-    "url": "./images/blue-door.jpg"
+    "url": "./images/Blue-Door.jpg"
   },
   {
     "name": "Budapest",
-    "url": "./images/budapest-door.jpg"
+    "url": "./images/Budapest-Door.jpg"
   },
   {
     "name": "Chinese",
@@ -44,5 +44,5 @@
   },
   {
     "name": "Viking",
-    "url": "./images/Viking.jpg"
+    "url": "./images/Viking-Door.jpg"
   }]
