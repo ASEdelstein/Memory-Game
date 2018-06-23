@@ -19,7 +19,9 @@ body {
   line-height: 60px;
 }
 
-
+/* #message {
+  text-align: center
+} */
 .clickable-images{
   margin: 10px;
 }

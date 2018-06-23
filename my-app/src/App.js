@@ -26,7 +26,7 @@ class App extends Component {
     picked: [],
     correct: 0,
     topscore: 0,
-    message: 'Click on a door to begin'
+    // message: "Click on a door to begin"
   };
 
   // Create an array that shuffles the options at random.
